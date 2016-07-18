@@ -1,12 +1,10 @@
 # cljsjs/async
 
-[](dependency)
-```clojure
-[cljsjs/async "2.0.0-rc.4-0"] ;; latest release
-```
-[](/dependency)
+[![Clojars](https://img.shields.io/clojars/v/cljsjs/async.svg?maxAge=2592000)](https://clojars.org/cljsjs/async)
 
-After adding the above dependency to your project you can require the packaged library like so:
+Higher-order functions and common patterns for asynchronous code.
+
+After adding the dependency to your project you can require the packaged library like so:
 
 ```clojure
 (ns application.core
